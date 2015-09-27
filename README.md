@@ -50,7 +50,7 @@ the average of each variable for each activity and each subject.
 - 'tidyaverage_screenshot.png': Provides a screenshot of the output
   from 'average.df' as a quick check of the file structure.
 
-- 'tidyaverage.txt': The generated file that was uploaded to GitHub.
+- 'tidyaverage.txt': The generated file of averages.
 
 Code Book:
 

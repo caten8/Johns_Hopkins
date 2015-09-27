@@ -9,23 +9,22 @@ of averages for each observation. The resulting file "tidyaverage.txt"
 meets the following principles of tidy data:
 - Each variable measured is in one column
 - Each different observation of that variable is in a different row
-==================================================================
+
 There is one R script. One script runs the analysis, makes all the
 changes, and generates a tidy dataframe, then generates a tidy data-
 frame with averages. 
-==================================================================
+
 Note: 
-=====
+-----
 Before running the script you must first install and/or activate the 
 following R packages: 
 - data.table
 - dplyr
 - tidyr
-==================================================================
+
 A PNG screengrab called "tidyaverage_screenshot" is included to help
 confirm the data is tidy and is ready to be used for analysis. This 
 is a partial view of the first 20 rows and the first six columns.
-==================================================================
 
 The dataset includes the following files:
 
@@ -54,5 +53,5 @@ the average of each variable for each activity and each subject.
 - 'tidyaverage.txt': The generated file that was uploaded to GitHub.
 
 Code Book:
-==========
+
 Consult the codebook for an explanation of variables.
